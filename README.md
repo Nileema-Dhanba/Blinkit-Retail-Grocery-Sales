@@ -89,3 +89,6 @@ Blinkit-Sales-Analysis/
 │   └── dashboard.png
 │
 └── README.md
+
+
+<img width="1012" height="644" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/ae731a42-42fe-4543-a9c4-55b60594d955" />
