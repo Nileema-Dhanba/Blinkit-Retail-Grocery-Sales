@@ -97,7 +97,7 @@ Blinkit-Sales-Analysis/
 
 📌 How to Run This Project
 1️⃣ Clone Repository
-git clone https://github.com/your-username/blinkit-sales-analysis.git
+https://github.com/Nileema-Dhanba/Blinkit-Retail-Grocery-Sales
 2️⃣ Run Python Script
 Clean the dataset using Pandas
 3️⃣ Load Data into MySQL
