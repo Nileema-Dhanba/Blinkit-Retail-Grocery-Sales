@@ -92,3 +92,33 @@ Blinkit-Sales-Analysis/
 
 
 <img width="1012" height="644" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/ae731a42-42fe-4543-a9c4-55b60594d955" />
+
+
+
+📌 How to Run This Project
+1️⃣ Clone Repository
+git clone https://github.com/your-username/blinkit-sales-analysis.git
+2️⃣ Run Python Script
+Clean the dataset using Pandas
+3️⃣ Load Data into MySQL
+Create table
+Insert cleaned data
+4️⃣ Run SQL Queries
+Perform analysis
+Create VIEW
+5️⃣ Open Power BI
+Connect to MySQL
+Load sales_dashboard view
+Build visuals
+
+⭐ Project Highlights
+✔ End-to-End Data Analytics Project
+✔ Real-world business problem solving
+✔ Strong use of SQL & Power BI
+✔ Clean and interactive dashboard
+✔ Insight-driven storytelling
+
+📬 Contact
+If you have any questions or feedback, feel free to connect!
+⭐ If you like this project
+Give it a ⭐ on GitHub!
